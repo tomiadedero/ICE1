@@ -11,6 +11,9 @@ import java.util.Scanner;
  * for the match to the user's card. To be used as starting code in ICE 1
  * @author srinivsi
  */
+
+//ADEDERO-OJUOKO AYOTOMIDE
+//991714407
 public class CardTrick {
     
     public static void main(String[] args)
