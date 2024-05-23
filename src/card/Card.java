@@ -47,6 +47,13 @@ public class Card {
         this.value = value;
     }
    
-   
+   public int randomValue() {
+        return (int) (Math.random() * 13) + 1;
+    }
+
+    // Generate a random suit index (0-3)
+    public int randomSuit() {
+        return (int) (Math.random() * 4);
+    }
     
 }
